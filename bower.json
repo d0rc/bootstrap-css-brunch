@@ -15,7 +15,7 @@
         "bootstrap.js"
     ],
     "main": [
-      "css/bootstrap.min.css",
+      "css/bootstrap.css",
       "js/bootstrap.min.js"
     ],
     "homepage": "http://getbootstrap.com/",
